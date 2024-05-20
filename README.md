@@ -7,7 +7,7 @@
 <p dir="auto">🌱 I’m currently learning <strong>React.js, React native and more.</strong></p>
 </li>
 <li>
-<p dir="auto">👨‍💻 All of my projects are available at <a href="https://github.com/valahdyo">https://github.com/valahdyo</a></p>
+<p dir="auto">👨‍💻 All of my projects are available at <a href="https://github.com/valahdyo404">https://github.com/valahdyo404</a></p>
 </li>
 <li>
 <p dir="auto">📫 How to reach me <strong><a href="mailto:valahdyo.arbandy@gmail.com">valahdyo.arbandy@gmail.com</a></strong></p>
